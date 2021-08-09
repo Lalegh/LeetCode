@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\leetCode\bin\Debug\leetCode.exe.config
+C:\Users\Administrator\source\repos\leetCode\bin\Debug\leetCode.exe
+C:\Users\Administrator\source\repos\leetCode\bin\Debug\leetCode.pdb
+C:\Users\Administrator\source\repos\leetCode\obj\Debug\leetCode.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\leetCode\obj\Debug\leetCode.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\leetCode\obj\Debug\leetCode.exe
+C:\Users\Administrator\source\repos\leetCode\obj\Debug\leetCode.pdb
